@@ -1,0 +1,26 @@
+@charset "UTF-8";
+.list{
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-attachment: fixed;
+	
+	margin:auto;
+}
+.name{
+	
+	float:right;
+	
+}
+.number{
+	
+	float:right;
+	margin-right:100px;
+}
+.outExcell{
+	
+	float:right;
+}
+.newAdd{
+	
+	float:right;
+}
